@@ -1,0 +1,10 @@
+Copyright (c) 2026 Idan Roth. All rights reserved.
+
+The code in this repository is not open source and carries no license grant.
+You may read it. Nothing here gives permission to copy, modify or redistribute
+it, and this file exists so that the absence of a license is a decision rather
+than an oversight.
+
+corpus/ is different and is not covered by this notice: the file list there
+points at a third-party test suite under the MIT license, whose text is kept
+verbatim in corpus/LICENSE. Those files are not stored in this repository.
